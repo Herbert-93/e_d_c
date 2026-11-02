@@ -132,7 +132,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="pt-8 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4 text-white/60 text-xs">
           <p>© {new Date().getFullYear()} Elegant Dental Care. All Rights Reserved.</p>
-          <p className="font-light">Designed with ❤ for brighter smiles</p>
+          <p className="font-light">Designed by Samurai_H</p>
         </div>
       </div>
     </footer>

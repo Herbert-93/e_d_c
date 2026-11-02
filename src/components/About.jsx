@@ -35,7 +35,7 @@ export default function About() {
               Dentistry With
             </h2>
             <h2 className="text-3xl sm:text-4xl md:text-5xl mb-6 leading-tight italic text-leaf-dark font-light">
-              Heart & Precision
+              Precision  Care  Confidence
             </h2>
             <div className="w-16 h-0.5 bg-leaf mb-8" />
             <p className="text-gray-500 font-light leading-relaxed mb-5">

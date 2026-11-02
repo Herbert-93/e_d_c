@@ -14,7 +14,7 @@ export default function Hero() {
         {/* Text */}
         <div className="max-w-xl">
           <p className="text-leaf uppercase tracking-[0.3em] text-xs font-medium mb-5">
-            Premium Dental Practice
+            Premium Dental Care
           </p>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl text-white mb-6 leading-tight font-serif">
             Your Smile,{' '}

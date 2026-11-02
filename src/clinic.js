@@ -7,6 +7,6 @@ export const phones = [
 ];
 
 // TODO: replace with the clinic's real details
-export const address = '123 Luxury Avenue\nKampala, Uganda';
-export const email = 'info@elegantdentalcare.com';
-export const hours = ['Mon–Fri: 9:00 AM – 6:00 PM', 'Saturday: 10:00 AM – 2:00 PM', 'Sunday: Closed'];
+export const address = 'Kira, Mulawa City Mall\nWakiso, Uganda';
+export const email = 'elegantdentalcare2026@gmail.com';
+export const hours = ['Mon–Fri: 9:00 AM – 10:00 PM', 'Saturday: 10:00 AM – 10:00 PM', 'Sunday: 10:00 AM – 10:00 PM'];
